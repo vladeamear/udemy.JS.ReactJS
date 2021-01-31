@@ -19,3 +19,5 @@ personalMovieDB.movies[lastSeenMovie1] = ratingLSM1;
 personalMovieDB.movies[lastSeenMovie2] = ratingLSM2;
 
 console.log(personalMovieDB);
+
+//second commit 
