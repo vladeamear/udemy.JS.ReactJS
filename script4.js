@@ -36,7 +36,6 @@ const personalMovieDB = {
             alert("Вы киноман");
         } else {
             alert("Произошла ошибка!" + personalMovieDB.count);
-            // .start();
         }
     },
     checkPrivateness: function(){
